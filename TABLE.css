@@ -1,0 +1,30 @@
+body{
+margin:auto;
+padding:5%;
+width: 800px;
+height:800px;
+display:flex;
+justify-content:center;
+align-items: center;
+background-color: pink;
+}
+
+
+
+.outside-box{
+width: 500px;
+heigth: 500px;
+background-color: red;
+display:flex;
+justify-content:center;
+align-items: center;
+}
+
+
+
+.inside-box{
+width: 300px;
+height: 3000px;
+background-color: green;
+}
+
